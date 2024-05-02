@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Knyha\14\14\bin\Debug\net8.0-windows\14.exe
+C:\Users\User\Desktop\Knyha\14\14\bin\Debug\net8.0-windows\14.deps.json
+C:\Users\User\Desktop\Knyha\14\14\bin\Debug\net8.0-windows\14.runtimeconfig.json
+C:\Users\User\Desktop\Knyha\14\14\bin\Debug\net8.0-windows\14.dll
+C:\Users\User\Desktop\Knyha\14\14\bin\Debug\net8.0-windows\14.pdb
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\_14.Form1.resources
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\_14.Form2.resources
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.AssemblyInfo.cs
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.dll
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\refint\14.dll
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.pdb
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\14.genruntimeconfig.cache
+C:\Users\User\Desktop\Knyha\14\14\obj\Debug\net8.0-windows\ref\14.dll
